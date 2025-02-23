@@ -1,1 +1,1 @@
-# Stegonography-project-AICTE
+# Steganography-project-AICTE
